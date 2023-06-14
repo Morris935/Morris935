@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Morris935
-- 👀 I’m interested in web development (PHP, Flask, Django,HTML,CSS,Js, Bootstrap, MySQL),
+- 👀 I’m interested in full stack web development (Flask, Django,HTML,CSS,Js, Bootstrap, MySQL),
  R programming, Python programming(for Data Science), 
 Data visualization with Tableau and Power BI.
 
